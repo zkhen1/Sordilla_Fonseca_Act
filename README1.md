@@ -52,7 +52,8 @@ Search for a book and click Reserve to make a reservation.
 View and manage reservations from the dashboard.
 Admins can update, delete, or approve reservations.
 
-Screenshots or Code Snippets
+💻Screenshots or Code Snippets
+
 // Example: Save new reservation
 if (isset($_POST['reserve'])) {
     $book_id = $_POST['book_id'];
