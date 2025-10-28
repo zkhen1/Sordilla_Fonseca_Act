@@ -16,9 +16,13 @@ To automate library processes and minimize manual errors.
 ⚙️ Features / Functionality
 
 🧾 Book Reservation: Users can search for available books and reserve them.
+
 👤 User Registration & Login: Secure login for students and admin accounts.
+
 📚 Book Management: Admins can add, update, or delete book records.
+
 🗓️ Reservation Tracking: Displays active and completed reservations.
+
 🔍 Search Functionality: Quickly find books by title, author, or category.
 
 
