@@ -277,7 +277,3 @@ class ReservationController extends Controller
 ## ⚖️ License
 
 This project is licensed under the **Educational Purposes Only**.
-
----
-
-This version is now fully formatted, consistent, and ready for GitHub. It should render beautifully with proper headings, bold text, and code blocks. If you have screenshots to add, create a new section like `## 📸 Screenshots` and link them. Let me know if you'd like any more tweaks!
