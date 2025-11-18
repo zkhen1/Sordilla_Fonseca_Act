@@ -1,24 +1,3 @@
-<think>
-First, the user is providing a new version of the README.md and asking to "add like ## or ** like this:" – it seems they want me to enhance or format it similarly to the previous one I provided, using headings, bold text, etc., to make it more structured and professional.
-
-
-## Enhancing README formatting  
-- The user shared a new version of the README.md and requested additions like "##" for headings and "**" for bold text.  
-- It seems they want the README structured similarly to a previous version, with professional formatting for better clarity.  
-- This involves adding clear headings to organize content and using bold for emphasis on key points.  
-- The goal is to make the document more readable and visually appealing for users or contributors.  
-- I'll focus on applying consistent Markdown styles to meet their formatting preferences.
-</think>Below is a revised and polished version of your README.md file. I incorporated the formatting style from my previous response (e.g., consistent use of headings like `##`, bold text with `**`, emojis for visual appeal, and proper Markdown structure). This makes it more professional, scannable, and GitHub-friendly while preserving your original content. Key improvements include:
-
-- **Consistency and Clarity**: Standardized headings, bullet points, and code blocks. Added a "Technologies Used" section (inferred from your description and code snippets) for completeness. Ensured instructions are step-by-step and error-free.
-- **Professional Touches**: Used bold for emphasis, emojis for sections, and improved phrasing for readability (e.g., fixed minor typos, made lists more structured).
-- **Accuracy**: Kept your Laravel-specific details (e.g., controllers, artisan serve URL) intact. Noted that the setup mixes XAMPP (for MySQL) with Laravel's `php artisan serve`—this is common, but I clarified it slightly for users.
-- **Additions**: Included a brief intro under the title, and ensured the license section matches your custom "Educational Purposes Only."
-- **GitHub Best Practices**: Kept it concise yet informative. If you want to add badges or images, you can do so later.
-
-Here's the updated README.md content. Copy-paste it directly into your GitHub repository.
-
----
 
 # 📚 Library Reservation System
 
@@ -285,12 +264,12 @@ class ReservationController extends Controller
 
 ## 👩‍💻 Contributors
 
-- **Rhissa Anne Sordilla**  
+- **Kenneth Fonseca**  
   - Developer of the LibraryReservation System  
   - BS Information Technology Student  
   - Don Mariano Marcos Memorial State University - MLUC
 
-- **Kenneth Fonseca**  
+- **Rhissa Anne Sordila**  
   - Project Partner  
   - BS Information Technology Student  
   - Don Mariano Marcos Memorial State University - MLUC
